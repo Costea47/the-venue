@@ -3,7 +3,7 @@ import { Fade } from "react-awesome-reveal";
 
 const Footer = () => {
   return (
-    <footer className="bck_red">
+    <footer className="bck_red" style={{ background: "#D65DB1" }}>
       <Fade triggerOnce>
         <div className="font_righteous footer_logo_venue">The venue</div>
         <div className="footer_copyright">
