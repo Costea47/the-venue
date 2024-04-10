@@ -29,7 +29,7 @@ const Header = () => {
     <AppBar
       position="fixed"
       style={{
-        backgroundColor: headerShow ? "#845EC2" : "transparent",
+        backgroundColor: headerShow ? "#000000" : "transparent",
         boxShadow: "none",
         padding: "10px 0px",
       }}
