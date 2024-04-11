@@ -46,10 +46,10 @@ MIT License
 
 ## Screenshots
 
-![Screenshot 1](./src/assets/images/Screenshot1.png)
-![Screenshot 2](./src/assets/images/Screenshot2.png)
-![Screenshot 3](./src/assets/images/Screenshot3.png)
-![Screenshot 4](./src/assets/images/Screenshot4.png)
-![Screenshot 5](./src/assets/images/Screenshot5.png)
+![Screenshot 1](./src/resources/images/Screenshot1.png)
+![Screenshot 2](./src/resources/images/Screenshot2.png)
+![Screenshot 3](./src/resources/images/Screenshot3.png)
+![Screenshot 4](./src/resources/images/Screenshot4.png)
+![Screenshot 5](./src/resources/images/Screenshot5.png)
 
 ---
