@@ -42,7 +42,10 @@ const Discount = () => {
               quae ab illo inventore veritatis et quasi architecto beatae vitae
               dicta sunt explicabo."
             </p>
-            <MyButton text="Purchase tickets" link="http://google.com" />
+            <MyButton
+              text="Purchase tickets"
+              link="https://www.ticketmaster.co.uk/twenty-one-pilots-the-clancy-world-london-13-05-2025/"
+            />
           </div>
         </Slide>
       </div>
